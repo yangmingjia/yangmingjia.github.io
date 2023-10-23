@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ymj0305.com/resources/index.html</loc>
+    <loc>https://ymj0305.com/tags/index.html</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ymj0305.com/categories/index.html</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ymj0305.com/about/index.html</loc>
     
     <lastmod>2023-10-22</lastmod>
     
@@ -11,34 +29,7 @@
   </url>
   
   <url>
-    <loc>http://ymj0305.com/about/index.html</loc>
-    
-    <lastmod>2023-10-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ymj0305.com/tags/index.html</loc>
-    
-    <lastmod>2023-10-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ymj0305.com/categories/index.html</loc>
-    
-    <lastmod>2023-10-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ymj0305.com/2023/10/23/hello-world/</loc>
+    <loc>https://ymj0305.com/2023/10/23/hello-world/</loc>
     
     <lastmod>2023-10-22</lastmod>
     
@@ -48,8 +39,8 @@
   
 
   <url>
-    <loc>http://ymj0305.com/</loc>
-    <lastmod>2023-10-22</lastmod>
+    <loc>https://ymj0305.com/</loc>
+    <lastmod>2023-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
